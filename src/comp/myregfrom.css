@@ -1,0 +1,22 @@
+.user{
+    width: 20rem;
+    margin-top: 2rem;
+    flex-direction: column;
+    justify-content: center;
+    left: 40%;
+    
+}
+.pass{
+    width: 20rem;
+    margin-top: 2rem;
+    flex-direction: column;
+    justify-content: center;
+    left: 40%;
+}
+button{
+    width: 20rem;
+    margin-top: 2rem;
+    flex-direction: column;
+    justify-content: center;
+    left: 40%;
+}

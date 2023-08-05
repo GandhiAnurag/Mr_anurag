@@ -1,0 +1,13 @@
+button{
+    width: auto;
+    margin-right: 2rem;
+}
+.btn1{
+    margin-left: 40rem;
+    /* align-items: center; */
+    /* margin-bottom: 2rem; */
+}
+.btn2{
+    align-items: center;
+    margin: auto;
+}
